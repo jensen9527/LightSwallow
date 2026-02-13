@@ -1,6 +1,6 @@
-# StarTime
+# LightSwallow
 
-This is the official Pytorch implement of StarTime
+This is the official Pytorch implement of LightSwallow
 
 ## ☀️Quick Start
 
@@ -47,7 +47,7 @@ If want to see the experiment of paper, just use:
 
 ## ⚙️ Usage
 
-Same as `nn.Module`, you could call StarTime and CalculusConv
+Same as `nn.Module`, you could call LightSwallow and CalculusConv
 
 ``````python
 from startime import StarTime, CalculusConv
@@ -82,4 +82,5 @@ iter.py
 startime.py
 	- AnotherCalclusConv	···	Class for Ablation for different way of Calculus
 	- unity					···	A startime block
+
 
